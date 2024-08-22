@@ -1,5 +1,5 @@
 # Data Booster Intern Challenge
-<img width="903" alt="Ekran Resmi 2024-08-22 13 07 05" src="https://github.com/user-attachments/assets/f71eca62-3b3d-4795-b6ea-e20ce6bb78aa">
+
 
 ## Description
 
